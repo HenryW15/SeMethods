@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeMethods", "SeMethods\SeMethods.csproj", "{D0A63031-9C36-45AB-9467-86F0EF9D2086}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0A63031-9C36-45AB-9467-86F0EF9D2086}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0A63031-9C36-45AB-9467-86F0EF9D2086}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0A63031-9C36-45AB-9467-86F0EF9D2086}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0A63031-9C36-45AB-9467-86F0EF9D2086}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAE7C688-7B96-4FDD-86A9-C72156A7CBC7}
+	EndGlobalSection
+EndGlobal
